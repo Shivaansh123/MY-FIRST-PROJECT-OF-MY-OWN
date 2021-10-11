@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@500&display=swap');
+body{
+    font-family: 'Hind', sans-serif;
+    text-align: center;
+    background-image: https://cdn.onlyinyourstate.com/wp-content/uploads/2018/12/20021921503_cfeea0c55a_k-1.jpg;
+}
+section{
+    width: auto;
+    height: auto;
+    background-color:rgba(108, 212, 87, 0.637) ;
+    border: 3px solid black;
+    border-radius: 50px 50px 50px 50px;
+    margin left: 500px;
+}
+div{
+    background-image:https://cdn.onlyinyourstate.com/wp-content/uploads/2018/12/20021921503_cfeea0c55a_k-1.jpg ;
+width: 500px;
+height: 80 px;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 150;
+    border-radius: 50px 50px 50px 50px;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20px;
+}
